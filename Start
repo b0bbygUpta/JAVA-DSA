@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My First Webpage</title>
+    </head>
+    <body>
+        <h1>Hello, World!</h1>
+        <p>This is my first paragraph.</p>     
+        <p>How to become advanced in your HTML practice </p>
+        <a src="f20">video</a>   
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo, inventore? Similique quam officia accusantium expedita, commodi cupiditate adipisci! Ducimus ad explicabo omnis facere?</p>
+        <h2>Heading 2</h2>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, dolore distinctio. Quia quidem omnis, dolorum obcaecati asperiores exercitationem hic minus iure magni quis illum autem, enim at optio ullam voluptatibus tempora nisi.</p>
+        <h3>Heading3</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, sit iste? Minima iusto officia recusandae repellat quibusdam ullam eius. Voluptate inventore sint neque a quo autem nihil esse, repellat eos praesentium necessitatibus odit suscipit consequuntur corrupti non quaerat nisi! Saepe?</p>
+        <h4>Heading 4</h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque laboriosam iste tempora porro debitis molestiae error minima rem, explicabo quisquam, quidem dicta expedita cumque laborum optio atque voluptate earum a autem omnis ad voluptatem repudiandae. Rem ex sit veniam, ipsum dicta doloremque tenetur accusamus aliquid, praesentium.</p>
+        <h4>Heading 4</h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, maiores?</p>
+        <h5>Heading 5</h5>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure blanditiis tenetur vel provident, quod repellendus totam sequi asperiores quae nostrum quaerat, ducimus saepe numquam perspiciatis! Nihil?</p>
+        <h6>Heading 6</h6>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi provident modi, in accusantium, voluptatum rem esse molestiae, ab asperiores temporibus ducimus nihil sequi aliquam. Debitis, fugit. Quidem itaque atque qui quas? Aperiam vero corrupti ipsa?</p>
+    </body>
+</html>
